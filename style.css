@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    background-color: rgb(7, 7, 7);
+    width: 371px;
+    height: 590px;
+   border-radius: 25px;
+}
+.btn{
+    height: 75px;
+    width: 75px;
+}
+.xero{
+    width: 162px;
+    border-radius: 40px;
+}
+#result{
+    height: 120px;
+    border-radius: 25px 25px 0px 0px;
+    font-size: 30px;
+    margin-left:16px;
+    width: 354px;
+    outline: none !important;
+}
+.custom-but{
+    background-color: 	#A0A0A0;
+}
